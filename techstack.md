@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nayneshrathod/firebase-auth-applications-](https://github.com/nayneshrathod/firebase-auth-applications-)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|34<br/>Tools used|01/04/24 <br/>Report generated|
+|34<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
